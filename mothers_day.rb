@@ -4,4 +4,4 @@ def mothers_day(name = "Mom")
 end
 
 mothers_day
-mothers_day(Beyonce)
+mothers_day("Beyonce")
